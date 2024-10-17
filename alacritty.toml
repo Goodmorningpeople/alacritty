@@ -5,4 +5,7 @@ italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
 bold_italic = { family = "JetBrainsMono Nerd Font", style = "Bold Italic" }
 size = 12.0  # Adjust the size as desired
 
+[window]
+opacity = 0.8
+
 
