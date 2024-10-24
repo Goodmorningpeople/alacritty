@@ -3,9 +3,9 @@ normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
 italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
 bold_italic = { family = "JetBrainsMono Nerd Font", style = "Bold Italic" }
-size = 12.0  # Adjust the size as desired
+size = 18  # Adjust the size as desired
 
 [window]
-opacity = 0.8
-
+opacity = 0.7
+decorations = "full"
 
